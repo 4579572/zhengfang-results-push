@@ -11,6 +11,6 @@ return [
     'WxPusherConfig' => [
         //你在 http://wxpusher.zjiecode.com/admin/app/list
         // 创建的 APP_TOKEN
-        'APP_TOKEN' => '',
+        'APP_TOKEN' => 'AT_lnIwl0QFnC6D7Ls1AkFiezXOsFUSIWtl',
     ]
 ];
