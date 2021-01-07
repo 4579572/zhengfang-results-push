@@ -7,18 +7,18 @@
  */
 
 //成绩查询API
-define("ResultQueryAPI", "http://教务系统域名/jwglxt/cjcx/cjcx_cxDgXscj.html?doType=query&gnmkdm=N305005");
+define("ResultQueryAPI", "http://jwglxt.yau.edu.cn/jwglxt/cjcx/cjcx_cxDgXscj.html?doType=query&gnmkdm=N305005");
 //如果你的教务系统强制使用  https  请将 http 末尾加一个 s
 //不知道gnmkdm
 
 //查询那个学年
 //2019 表示的是 2019~2020 学年
-define("XNM", "2019");
+define("XNM", "2021");
 
 //查询哪个学期
 //3：上学期
 //12：下学期
-define("XQM", "12");
+define("XQM", "3");
 
 
 /**
